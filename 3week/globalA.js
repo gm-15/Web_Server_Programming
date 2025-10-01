@@ -1,0 +1,1 @@
+module.export = () => globalThis.MessageChannel;
